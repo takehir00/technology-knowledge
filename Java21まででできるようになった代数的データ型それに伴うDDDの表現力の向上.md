@@ -561,3 +561,6 @@ Java 21+は、
 > **「OO + 型安全な関数型のハイブリッドJava」**
 
 へ進化している。
+
+### 参考になる1次ドキュメント
+* https://docs.oracle.com/en/java/javase/21/language/pattern-matching.html
